@@ -6,10 +6,10 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-![Repo Size](https://img.shields.io/github/repo-size/ginaisthando/joes-coaches-admin)
-![Last Commit](https://img.shields.io/github/last-commit/ginaisthando/joes-coaches-admin)
-![Open Issues](https://img.shields.io/github/issues/ginaisthando/joes-coaches-admin)
-![Stars](https://img.shields.io/github/stars/ginaisthando/joes-coaches-admin?style=social)
+![Repo Size](https://img.shields.io/github/repo-size/ginaisthando/admin)
+![Last Commit](https://img.shields.io/github/last-commit/ginaisthando/admin)
+![Open Issues](https://img.shields.io/github/issues/ginaisthando/admin)
+![Stars](https://img.shields.io/github/stars/ginaisthando/admin?style=social)
 
 A complete **admin panel** for managing employees and interviews with **secure authentication**, **database persistence**, and a **modern web interface**.  
 
